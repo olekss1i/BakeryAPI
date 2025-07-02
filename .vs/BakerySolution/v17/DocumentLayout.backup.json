@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\BakeryAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{998CEB57-8677-4207-B316-D492F0A89200}|BakeryAPI.csproj|c:\\users\\user\\source\\repos\\bakeryapi\\bakery.bll\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{998CEB57-8677-4207-B316-D492F0A89200}|BakeryAPI.csproj|solutionrelative:bakery.bll\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{998CEB57-8677-4207-B316-D492F0A89200}|BakeryAPI.csproj|c:\\users\\user\\source\\repos\\bakeryapi\\bakery.bll\\services\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{998CEB57-8677-4207-B316-D492F0A89200}|BakeryAPI.csproj|solutionrelative:bakery.bll\\services\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{998CEB57-8677-4207-B316-D492F0A89200}|BakeryAPI.csproj|c:\\users\\user\\source\\repos\\bakeryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{998CEB57-8677-4207-B316-D492F0A89200}|BakeryAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{998CEB57-8677-4207-B316-D492F0A89200}|BakeryAPI.csproj|c:\\users\\user\\source\\repos\\bakeryapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{998CEB57-8677-4207-B316-D492F0A89200}|BakeryAPI.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{998CEB57-8677-4207-B316-D492F0A89200}|BakeryAPI.csproj|c:\\users\\user\\source\\repos\\bakeryapi\\controllers\\feedbackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{998CEB57-8677-4207-B316-D492F0A89200}|BakeryAPI.csproj|solutionrelative:controllers\\feedbackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{998CEB57-8677-4207-B316-D492F0A89200}|BakeryAPI.csproj|c:\\users\\user\\source\\repos\\bakeryapi\\controllers\\ingredientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{998CEB57-8677-4207-B316-D492F0A89200}|BakeryAPI.csproj|solutionrelative:controllers\\ingredientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{24EE64ED-6834-423B-889B-98991CA6EB88}|Bakery.BLL\\Bakery.BLL.csproj|c:\\users\\user\\source\\repos\\bakeryapi\\bakery.bll\\bakery.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{24EE64ED-6834-423B-889B-98991CA6EB88}|Bakery.BLL\\Bakery.BLL.csproj|solutionrelative:bakery.bll\\bakery.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -19,7 +43,85 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Bakery.BLL",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\BakeryAPI\\Bakery.BLL\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Bakery.BLL\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\BakeryAPI\\Bakery.BLL\\Models\\User.cs",
+              "RelativeToolTip": "Bakery.BLL\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T22:43:04.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FeedbackService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\BakeryAPI\\Bakery.BLL\\Services\\FeedbackService.cs",
+              "RelativeDocumentMoniker": "Bakery.BLL\\Services\\FeedbackService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\BakeryAPI\\Bakery.BLL\\Services\\FeedbackService.cs",
+              "RelativeToolTip": "Bakery.BLL\\Services\\FeedbackService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T22:41:29.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\BakeryAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\BakeryAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T22:40:52.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\BakeryAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\BakeryAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T22:37:21.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FeedbacksController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\BakeryAPI\\Controllers\\FeedbacksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FeedbacksController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\BakeryAPI\\Controllers\\FeedbacksController.cs",
+              "RelativeToolTip": "Controllers\\FeedbacksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T22:37:20.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IngredientsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\BakeryAPI\\Controllers\\IngredientsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\IngredientsController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\BakeryAPI\\Controllers\\IngredientsController.cs",
+              "RelativeToolTip": "Controllers\\IngredientsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T22:37:19.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bakery.BLL.csproj",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\BakeryAPI\\Bakery.BLL\\Bakery.BLL.csproj",
               "RelativeDocumentMoniker": "Bakery.BLL\\Bakery.BLL.csproj",
               "ToolTip": "C:\\Users\\user\\source\\repos\\BakeryAPI\\Bakery.BLL\\Bakery.BLL.csproj",

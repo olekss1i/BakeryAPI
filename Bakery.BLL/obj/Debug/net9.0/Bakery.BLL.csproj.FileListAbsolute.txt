@@ -13,3 +13,4 @@ C:\Users\user\source\repos\BakeryAPI\Bakery.BLL\obj\Debug\net9.0\Bakery.BLL.dll
 C:\Users\user\source\repos\BakeryAPI\Bakery.BLL\obj\Debug\net9.0\refint\Bakery.BLL.dll
 C:\Users\user\source\repos\BakeryAPI\Bakery.BLL\obj\Debug\net9.0\Bakery.BLL.pdb
 C:\Users\user\source\repos\BakeryAPI\Bakery.BLL\obj\Debug\net9.0\ref\Bakery.BLL.dll
+C:\Users\user\source\repos\BakeryAPI\Bakery.BLL\obj\Debug\net9.0\Bakery.BLL.sourcelink.json

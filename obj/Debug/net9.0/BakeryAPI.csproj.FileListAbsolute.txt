@@ -160,3 +160,4 @@ C:\Users\user\source\repos\BakeryAPI\obj\Debug\net9.0\refint\BakeryAPI.dll
 C:\Users\user\source\repos\BakeryAPI\obj\Debug\net9.0\BakeryAPI.pdb
 C:\Users\user\source\repos\BakeryAPI\obj\Debug\net9.0\BakeryAPI.genruntimeconfig.cache
 C:\Users\user\source\repos\BakeryAPI\obj\Debug\net9.0\ref\BakeryAPI.dll
+C:\Users\user\source\repos\BakeryAPI\obj\Debug\net9.0\BakeryAPI.sourcelink.json

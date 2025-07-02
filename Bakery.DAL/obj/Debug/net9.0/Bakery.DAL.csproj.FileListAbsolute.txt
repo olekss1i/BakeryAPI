@@ -9,3 +9,4 @@ C:\Users\user\source\repos\BakeryAPI\Bakery.DAL\obj\Debug\net9.0\Bakery.DAL.dll
 C:\Users\user\source\repos\BakeryAPI\Bakery.DAL\obj\Debug\net9.0\refint\Bakery.DAL.dll
 C:\Users\user\source\repos\BakeryAPI\Bakery.DAL\obj\Debug\net9.0\Bakery.DAL.pdb
 C:\Users\user\source\repos\BakeryAPI\Bakery.DAL\obj\Debug\net9.0\ref\Bakery.DAL.dll
+C:\Users\user\source\repos\BakeryAPI\Bakery.DAL\obj\Debug\net9.0\Bakery.DAL.sourcelink.json
