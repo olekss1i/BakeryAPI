@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\BakeryAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24EE64ED-6834-423B-889B-98991CA6EB88}|Bakery.BLL\\Bakery.BLL.csproj|c:\\users\\user\\source\\repos\\bakeryapi\\bakery.bll\\bakery.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{24EE64ED-6834-423B-889B-98991CA6EB88}|Bakery.BLL\\Bakery.BLL.csproj|solutionrelative:bakery.bll\\bakery.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bakery.BLL",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\BakeryAPI\\Bakery.BLL\\Bakery.BLL.csproj",
+              "RelativeDocumentMoniker": "Bakery.BLL\\Bakery.BLL.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\BakeryAPI\\Bakery.BLL\\Bakery.BLL.csproj",
+              "RelativeToolTip": "Bakery.BLL\\Bakery.BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-02T20:48:00.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

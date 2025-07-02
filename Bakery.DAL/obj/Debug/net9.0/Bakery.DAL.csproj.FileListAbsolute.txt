@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\BakeryAPI\Bakery.DAL\bin\Debug\net9.0\Bakery.DAL.deps.json
+C:\Users\user\source\repos\BakeryAPI\Bakery.DAL\bin\Debug\net9.0\Bakery.DAL.dll
+C:\Users\user\source\repos\BakeryAPI\Bakery.DAL\bin\Debug\net9.0\Bakery.DAL.pdb
+C:\Users\user\source\repos\BakeryAPI\Bakery.DAL\obj\Debug\net9.0\Bakery.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\BakeryAPI\Bakery.DAL\obj\Debug\net9.0\Bakery.DAL.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\BakeryAPI\Bakery.DAL\obj\Debug\net9.0\Bakery.DAL.AssemblyInfo.cs
+C:\Users\user\source\repos\BakeryAPI\Bakery.DAL\obj\Debug\net9.0\Bakery.DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BakeryAPI\Bakery.DAL\obj\Debug\net9.0\Bakery.DAL.dll
+C:\Users\user\source\repos\BakeryAPI\Bakery.DAL\obj\Debug\net9.0\refint\Bakery.DAL.dll
+C:\Users\user\source\repos\BakeryAPI\Bakery.DAL\obj\Debug\net9.0\Bakery.DAL.pdb
+C:\Users\user\source\repos\BakeryAPI\Bakery.DAL\obj\Debug\net9.0\ref\Bakery.DAL.dll

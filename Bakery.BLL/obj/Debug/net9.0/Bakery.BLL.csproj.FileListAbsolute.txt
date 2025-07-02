@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\BakeryAPI\Bakery.BLL\bin\Debug\net9.0\Bakery.BLL.deps.json
+C:\Users\user\source\repos\BakeryAPI\Bakery.BLL\bin\Debug\net9.0\Bakery.BLL.dll
+C:\Users\user\source\repos\BakeryAPI\Bakery.BLL\bin\Debug\net9.0\Bakery.BLL.pdb
+C:\Users\user\source\repos\BakeryAPI\Bakery.BLL\bin\Debug\net9.0\Bakery.DAL.dll
+C:\Users\user\source\repos\BakeryAPI\Bakery.BLL\bin\Debug\net9.0\Bakery.DAL.pdb
+C:\Users\user\source\repos\BakeryAPI\Bakery.BLL\obj\Debug\net9.0\Bakery.BLL.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\BakeryAPI\Bakery.BLL\obj\Debug\net9.0\Bakery.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\BakeryAPI\Bakery.BLL\obj\Debug\net9.0\Bakery.BLL.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\BakeryAPI\Bakery.BLL\obj\Debug\net9.0\Bakery.BLL.AssemblyInfo.cs
+C:\Users\user\source\repos\BakeryAPI\Bakery.BLL\obj\Debug\net9.0\Bakery.BLL.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BakeryAPI\Bakery.BLL\obj\Debug\net9.0\Bakery.BLL.csproj.Up2Date
+C:\Users\user\source\repos\BakeryAPI\Bakery.BLL\obj\Debug\net9.0\Bakery.BLL.dll
+C:\Users\user\source\repos\BakeryAPI\Bakery.BLL\obj\Debug\net9.0\refint\Bakery.BLL.dll
+C:\Users\user\source\repos\BakeryAPI\Bakery.BLL\obj\Debug\net9.0\Bakery.BLL.pdb
+C:\Users\user\source\repos\BakeryAPI\Bakery.BLL\obj\Debug\net9.0\ref\Bakery.BLL.dll
